@@ -1,0 +1,6 @@
+Ivanov 17500
+Petrov 23700
+Sidorov 9000
+Shuvalova 33100
+Popova 20050
+Tsaplin 11005
